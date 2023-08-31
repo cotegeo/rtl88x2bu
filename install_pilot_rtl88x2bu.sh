@@ -1,14 +1,17 @@
 #!/bin/bash
 
 #=============================
-#Sylvain BECQUAERT Cotégéo
-#31 août 2023
-#Ce script permet de réinstaller le pilote pour la clé WIFI rtl88x2bu
+#Sylvain BECQUAERT CotÃ©gÃ©o
+#31 aoÃ»t 2023
+#Ce script permet de rÃ©installer le pilote pour la clÃ© WIFI rtl88x2bu
 #=============================
 
 echo '1> Clonage du programme d''installation de Cylinx'
 
 git clone https://github.com/cilynx/rtl88x2bu.git
+
+
+echo 'Installation du pilote'
 
 cd rtl88x2bu
 
