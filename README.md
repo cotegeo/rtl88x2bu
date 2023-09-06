@@ -10,3 +10,5 @@ Script de réinstallation du pilote pour la clé wifi RTL88X2BU
 Il demandera cependant un mot de passe (votre mot de passe root).
 
 Il n'y a pas de paramètre.
+
+3/ Il est possible que le wifi ne soit pas rétabli. Il est possible qu'il faille ensuite redémarrer l'ordinateur et rebrancher la clé wifi sur un autre port USB. 
